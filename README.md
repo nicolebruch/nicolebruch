@@ -1,20 +1,39 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A4C6E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+:%29;My+name+is+Nicole+Bruch;I'm+16+years+old;I'm+learning+Java;Follow+me+on+this+journey!🍒)](https://git.io/typing-svg)
 
 <div align="center">  
-  <a href="https://www.instagram.com/bruch.nicole" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230A4C6E?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bruchnicole/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:bruchnicole04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+</div>
+
+<div align="center">  
+  <a href="https://www.instagram.com/bruch.nicole" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%230A4C6E?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.discord.com/users/bruchnicole" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="28">
+  </a> 
+  <!--Falta o link do meu portfolio, já coloquei o icon p/ depois só add-->
+  <a href=" " target="_blank">
+    <img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">
+  <a href="https://www.linkedin.com/in/bruchnicole/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:bruchnicole04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <br>
 
 ## 💻 Stack I Work With
 <p align="left"> 
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25">
+  <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-  &nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
 </p>
 <br>
 
@@ -40,3 +59,4 @@
 
 ### Profile Views
 <img src="https://profile-counter.glitch.me/nicolebruch/count.svg" />
+
