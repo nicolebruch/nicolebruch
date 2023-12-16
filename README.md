@@ -24,7 +24,7 @@
 
 <br>
 
-## 💻 Stack I Work With
+## 💻 Stack I Study With
 <p align="left"> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="25">
