@@ -8,6 +8,7 @@
   <a href="https://www.instagram.com/bruch.nicole" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%230A4C6E?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <!--Falta o link do meu servidor do discord, vou colocar apenas quando terminar o trabalho de conclusão-->
   <a href="https://www.discord.com/users/bruchnicole" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="28">
   </a> 
