@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A4C6E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+:%29;My+name+is+Nicole+Bruch;I'm+16+years+old;I'm+learning+Java;Follow+me+on+this+journey!🍒)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A4C6E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+:%29;My+name+is+Nicole+Bruch;I'm+16+years+old;I'm+learning+Amazon+Web+Services;Follow+me+on+this+journey!🍒)](https://git.io/typing-svg)
 
 <div align="center">  
  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
@@ -8,11 +8,6 @@
   <a href="https://www.instagram.com/bruch.nicole" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%230A4C6E?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <!--Falta o link do meu servidor do discord, vou colocar apenas quando terminar o trabalho de conclusão-->
- 
-  <!--<a href="https://www.discord.com/users/bruchnicole" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="28">
-  </a> -->
   
   <!--Falta o link do meu portfolio, já coloquei o icon p/ depois só add-->
   <a href=" " target="_blank">
