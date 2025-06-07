@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A4C6E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+:%29;My+name+is+Nicole+Bruch;I'm+17+years+old;I'm+learning+Amazon+Web+Services;Follow+me+on+this+journey!🍒)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A4C6E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+:%29;My+name+is+Nicole+Bruch;I'm+18+years+old;I'm+learning+Amazon+Web+Services;Follow+me+on+this+journey!🍒)](https://git.io/typing-svg)
 
 <div align="center">  
  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
