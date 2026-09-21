@@ -91,7 +91,6 @@
   <img src="https://img.shields.io/badge/GitHub-BB7087?style=for-the-badge&logo=github&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/GitHub_Actions-BB7087?style=for-the-badge&logo=githubactions&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Bitbucket-BB7087?style=for-the-badge&logo=bitbucket&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Jenkins-BB7087?style=for-the-badge&logo=jenkins&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/VS_Code-BB7087?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Eclipse-BB7087?style=for-the-badge&logo=eclipseide&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Figma-BB7087?style=for-the-badge&logo=figma&logoColor=white" height="28">
